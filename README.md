@@ -5,7 +5,7 @@
 
 1.第一次更新 [REINFORCE](https://github.com/Evanwu1125/Bacis-Algorithm-of-RL/blob/main/REINFORCE.ipynb) 2022.5.16
 
-2.第二次更新 DQN 2022.5.28
+2.第二次更新 [DQN](https://github.com/Evanwu1125/Bacis-Algorithm-of-RL/blob/main/DQN.ipynb) 2022.5.28
 
 3.第三次更新 强化学习与马尔可夫链(第一部分) 2023.1.15
 
