@@ -3,7 +3,7 @@
 
 （每一个算法都会在附上代码的同时加上自己对原理的理解。其中大部分的原理讲解来自于李宏毅老师的蘑菇书--EasyRL,代码部分自己实现)
 
-1.第一次更新 REINFORCE 2022.5.16
+1.第一次更新 [REINFORCE](https://github.com/Evanwu1125/Bacis-Algorithm-of-RL/blob/main/REINFORCE.ipynb) 2022.5.16
 
 2.第二次更新 DQN 2022.5.28
 
